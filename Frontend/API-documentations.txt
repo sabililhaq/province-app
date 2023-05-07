@@ -1,0 +1,17 @@
+Endpoints:
+
+GET / : Retrieve a list of all provinsis.
+POST /provinsi : Create a new provinsi.
+GET /provinsi/<id> : Retrieve a specific provinsi by id.
+PUT /provinsi/<id> : Update a specific provinsi by id.
+DELETE /provinsi/<id> : Delete a specific provinsi by id.
+GET /kabupaten : Retrieve a list of all kabupaten.
+POST /kabupaten : Create a new kabupaten.
+GET /kabupaten/<id> : Retrieve a specific kabupaten by id.
+PUT /kabupaten/<id> : Update a specific kabupaten by id.
+DELETE /kabupaten/<id> : Delete a specific kabupaten by id.
+GET /kecamatan : Retrieve a list of all kecamatans.
+POST /kecamatan : Create a new kecamatan.
+GET /kecamatan/<id> : Retrieve a specific kecamatan by id.
+PUT /kecamatan/<id> : Update a specific kecamatan by id.
+DELETE /kecamatan/<id> : Delete a specific kecamatan by id.
